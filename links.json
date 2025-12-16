@@ -1,0 +1,72 @@
+{
+  "favorites": [
+    {
+      "id": "favorites-news",
+      "title": "News",
+      "items": [
+        {
+          "url": "https://news.ycombinator.com/",
+          "name": "Hacker News",
+          "description": "Tech news aggregator"
+        },
+        {
+          "url": "https://selfh.st/",
+          "name": "selfh.st",
+          "description": "Self-hosted content and software"
+        },
+        {
+          "url": "https://dev.to/",
+          "name": "DEV Community",
+          "description": "Community of software developers"
+        }
+      ]
+    },
+    {
+      "id": "favorites-blogs",
+      "title": "Blogs",
+      "items": [
+        {
+          "url": "https://daringfireball.net/",
+          "name": "Daring Fireball",
+          "description": ""
+        }
+      ]
+    }
+  ],
+  "main": [
+    {
+      "id": "main-forums",
+      "title": "Forums",
+      "items": [
+        {
+          "url": "https://www.reddit.com/r/programming/",
+          "name": "Reddit Programming",
+          "description": "Programming discussions and news"
+        },
+        {
+          "url": "https://www.reddit.com/r/selfhosted/",
+          "name": "r/selfhosted",
+          "description": "Self-Hosted Alternatives to Popular Services"
+        }
+      ]
+    }
+  ],
+  "sidebar": [
+    {
+      "id": "sidebar-tools",
+      "title": "Tools",
+      "items": [
+        {
+          "url": "https://excalidraw.com/",
+          "name": "Excalidraw",
+          "description": "whiteboard"
+        },
+        {
+          "url": "https://bentopdf.com/",
+          "name": "BentoPDF",
+          "description": "The PDF Toolkit built for privacy"
+        }
+      ]
+    }
+  ]
+}
